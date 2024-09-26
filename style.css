@@ -12,7 +12,7 @@
     height: 40px;
     border: none;
     font-size: 20px;
-
+    caret-color: green;
 }
 
 .mk::placeholder {
@@ -23,11 +23,12 @@
 
 .bh {
     border: none;
+
 }
 
 .bh::placeholder {
     color: rgb(190, 188, 188);
-
+    
 }
 
 .ra {
@@ -78,6 +79,7 @@
 
 select {
     border: none;
+    background-color: transparent;
 }
 
 .jn {
