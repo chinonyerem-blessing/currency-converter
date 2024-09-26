@@ -98,7 +98,13 @@ select {
     font-weight: bold;
     font-family: Arial, Helvetica, sans-serif;
 }
-
+ .ad:hover{
+    width: 80px;
+    height: 30px;
+    background-color: black;
+    color: white;
+    border-radius: 15px;
+ }
 .jk {
     width: 300px;
     height: 40px;
@@ -106,7 +112,15 @@ select {
     background-color: rgb(216, 213, 213);
     border-radius: 10px;
     margin-top: 10px;
+    font-size: 15px;
+    font-weight: bold;
+
 }
+.jk:hover{
+    background-color: black;
+    color: white;
+}
+
 
 .hu {
     width: 340px;
